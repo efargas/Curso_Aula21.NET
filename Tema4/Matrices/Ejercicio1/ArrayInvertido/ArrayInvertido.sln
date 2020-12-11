@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayInvertido", "ArrayInvertido\ArrayInvertido.csproj", "{00C683FB-CBF4-46CA-AD11-92F210A195F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C683FB-CBF4-46CA-AD11-92F210A195F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C683FB-CBF4-46CA-AD11-92F210A195F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C683FB-CBF4-46CA-AD11-92F210A195F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C683FB-CBF4-46CA-AD11-92F210A195F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7975D1E8-0137-41D1-BAFA-383430FF9DA7}
+	EndGlobalSection
+EndGlobal
